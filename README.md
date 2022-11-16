@@ -87,7 +87,3 @@ Além da programação, gosto muito de música e meu hobby é tocar violão. Gos
 ---
 
 ![Snake animation](https://github.com/joaoduarte10/joaoduarte10/blob/output/github-contribution-grid-snake.svg)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=joaoduarte10&icon=0&color=0)](https://visitcount.itsvg.in)
