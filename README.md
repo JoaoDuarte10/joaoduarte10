@@ -70,7 +70,7 @@ Além da programação, gosto muito de música e meu hobby é tocar violão. Gos
 
 <div align="center">
   <a href="https://github.com/joaoduarte10">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaoduarte10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaoduarte10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoduarte10&layout=compact&langs_count=7&theme=tokyonight"/>
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoduarte10&theme=dark&hide_border=false"/>
   </a>
