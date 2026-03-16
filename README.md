@@ -1,6 +1,6 @@
 # Olá, seja bem vindo !!!
 
-Meu nome é João, tenho 22 anos, nascido e criado em Minas Gerais, esse estado lindo e com tantas riquezas naturais!!!
+Meu nome é João, tenho 25 anos, nascido e criado em Minas Gerais, esse estado lindo e com tantas riquezas naturais!!!
 
 Iniciei meus estudos de programação em 2019, através de um curso profissionalizante, e me apaixonei por tudo! Depois de alguns meses, inicie a faculdade de Análise e Desenvolvimento de Sistemas, pela qual aprendi muito sobre os processos de criação de software e muito mais. Finalizei os estudos acadêmicos e Dezembro de 2021! Mas não parei por aí, sempre estudo através de cursos, vídeos e documentações oficiais.
 
